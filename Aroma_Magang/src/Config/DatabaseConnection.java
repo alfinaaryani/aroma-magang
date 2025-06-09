@@ -10,4 +10,5 @@ package Config;
  */
 public class DatabaseConnection {
     String a = "abdsad";
+    string b = "idiwww";
 }
